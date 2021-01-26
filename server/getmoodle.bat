@@ -4,6 +4,6 @@ curl --output moodle-latest-310.zip --url https://download.moodle.org/download.p
 
 tar -xf moodle-latest-310.zip
 
-:: DEL moodle-latest-310.zip
+DEL moodle-latest-310.zip
 
 MKDIR moodledata
