@@ -40,11 +40,15 @@ CONVERT TO MOODLE-LOCAL
 
 3. Add moodle.local in hosts file (C:\Windows\System32\drivers\etc)
 
-4. Run server/installmoodle.bat
+4. Rename folder to moodle-local and move to C:\
 
-5. Run MakeUpgrade.bat
+5. Run 'Start Moodle.exe' to start up the system.
 
-6. Visit https://moodle.local/ to use your Moodle site!
+6. Run server/installmoodle.bat
+
+7. Run MakeUpgrade.bat
+
+8. Visit https://moodle.local/ to use your Moodle site!
 
 
 TECHNICAL INFORMATION
