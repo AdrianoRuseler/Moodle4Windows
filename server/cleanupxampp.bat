@@ -27,3 +27,32 @@ DEL test_php.bat
 
 DEL passwords.txt
 
+
+:: Files to remove in apache folder
+
+Rmdir /S "apache/icons"
+
+Rmdir /S "apache/manual"
+
+
+:: Files to remove in folder mysql
+
+Rmdir /S "mysql/backup"
+
+Rmdir /S "mysql/data/phpmyadmin"
+
+Rmdir /S "mysql/data/test"
+
+
+:: Files to remove in php folder
+
+Rmdir /S "php/pear"
+
+Rmdir /S "php/tests"
+
+Rmdir /S "php/sasl2"
+
+
+
+
+
