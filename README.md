@@ -11,14 +11,24 @@ Moodle has been packaged with Apache, MySQL and PHP.
 HOW TO USE IT
 =============
 
-1. Run 'Start Moodle.exe' to start up the system.
+1. Download XAMPP Portable: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/
 
-2. Visit http://localhost/ to use your Moodle site!
+2. Extract and rename xampp folder to server
 
-3. Other people have to access it via http://xxx.xxx.xxx.xxx where
+3. Download and extract the latest release over the server folder: https://github.com/AdrianoRuseler/Moodle4Windows/releases/
+
+4. Run sever/cleanupxampp.bat
+
+5. Run sever/getmoodle.bat
+
+6. Run 'Start Moodle.exe' to start up the system.
+
+7. Visit http://localhost/ to use your Moodle site!
+
+8. Other people have to access it via http://xxx.xxx.xxx.xxx where
    xx.xx.xx.xx is the IP number or name of your Windows computer.
 
-4. If you want to shut down the Moodle server, use 'Stop Moodle.exe'
+9. If you want to shut down the Moodle server, use 'Stop Moodle.exe'
 
 
 
