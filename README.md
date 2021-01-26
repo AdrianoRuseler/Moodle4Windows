@@ -46,7 +46,7 @@ CONVERT TO MOODLE-LOCAL
 
 6. Rename server/moodle/config.php to server/moodle/config-tmp.php
 
-6. Visit https://moodle.local/ to install your Moodle site!
+6. Visit https://moodle.local/ or run server/installmoodle.bat to install your Moodle site!
 
 7. Run MakeUpgrade.bat
 
