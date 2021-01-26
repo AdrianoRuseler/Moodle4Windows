@@ -17,9 +17,9 @@ HOW TO USE IT
 
 3. Download and extract the latest release over the server folder: https://github.com/AdrianoRuseler/Moodle4Windows/releases/
 
-4. Run sever/cleanupxampp.bat
+4. Run server/cleanupxampp.bat
 
-5. Run sever/getmoodle.bat
+5. Run server/getmoodle.bat
 
 6. Run 'Start Moodle.exe' to start up the system.
 
