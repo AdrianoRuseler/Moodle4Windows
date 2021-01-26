@@ -31,6 +31,20 @@ HOW TO USE IT
 9. If you want to shut down the Moodle server, use 'Stop Moodle.exe'
 
 
+CONVERT TO MOODLE-LOCAL
+=============
+
+1. Download and extract server-files.7z from https://github.com/AdrianoRuseler/moodle-local-plugins/raw/main/server-files.7z
+
+2. Merge extracted files
+
+3. Add moodle.local in hosts file (C:\Windows\System32\drivers\etc)
+
+4. Run server/installmoodle.bat
+
+5. Run MakeUpgrade.bat
+
+6. Visit https://moodle.local/ to use your Moodle site!
 
 
 TECHNICAL INFORMATION
