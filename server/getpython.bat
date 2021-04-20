@@ -6,5 +6,3 @@ MKDIR python
 tar -xvf python-embed-amd64.zip -C python
 
 DEL python-embed-amd64.zip
-
-PAUSE
