@@ -1,22 +1,22 @@
 :: Files to remove in server folder
 
-Rmdir /S "contrib"
+Rmdir /S /Q "contrib"
 
-Rmdir /S "FileZillaFTP"
+Rmdir /S /Q "FileZillaFTP"
 
-Rmdir /S "htdocs"
+Rmdir /S /Q "htdocs"
 
-Rmdir /S "MercuryMail"
+Rmdir /S /Q "MercuryMail"
 
-Rmdir /S "perl"
+Rmdir /S /Q "perl"
 
-Rmdir /S "phpMyAdmin"
+Rmdir /S /Q "phpMyAdmin"
 
-Rmdir /S "tomcat"
+Rmdir /S /Q "tomcat"
 
-Rmdir /S "webalizer"
+Rmdir /S /Q "webalizer"
 
-Rmdir /S "webdav"
+Rmdir /S /Q "webdav"
 
 
 DEL catalina_start.bat
@@ -30,27 +30,27 @@ DEL passwords.txt
 
 :: Files to remove in apache folder
 
-Rmdir /S "apache/icons"
+Rmdir /S /Q "apache/icons"
 
-Rmdir /S "apache/manual"
+Rmdir /S /Q "apache/manual"
 
 
 :: Files to remove in folder mysql
 
-Rmdir /S "mysql/backup"
+Rmdir /S /Q "mysql/backup"
 
-Rmdir /S "mysql/data/phpmyadmin"
+Rmdir /S /Q "mysql/data/phpmyadmin"
 
-Rmdir /S "mysql/data/test"
+Rmdir /S /Q "mysql/data/test"
 
 
 :: Files to remove in php folder
 
-Rmdir /S "php/pear"
+Rmdir /S /Q "php/pear"
 
-Rmdir /S "php/tests"
+Rmdir /S /Q "php/tests"
 
-Rmdir /S "php/sasl2"
+Rmdir /S /Q "php/sasl2"
 
 
 
